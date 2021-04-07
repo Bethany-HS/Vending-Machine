@@ -1,4 +1,4 @@
-## This was my first big project in the Tech Elevator- Vending Machine Software
+## This was my first big project in the Tech Elevator program- Vending Machine Software
 
 You've been asked to develop an application for the newest vending machine distributor,
 Umbrella Corp. They've released a new vending machine, Vendo-Matic 800, that is integrated
